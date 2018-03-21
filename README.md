@@ -17,6 +17,7 @@ Sklik Data Studio Connector v1.0.0 ID
 AKfycbwXtzxeXUzSz0ZutAixiBVarwU4epWOaUMRMnoRxYcqwgsaLB1CwEXdZfnT8PgEZH6i
 
 **Připojení konektoru**
+
 V GDS (google data studio) se přepnete na Zdroje dat a v pravém spodním rohu dáte přidat další konektor. 
 ![](https://github.com/ChocoTUx/readmetester/blob/master/doc/01.JPG)
 
@@ -35,6 +36,7 @@ Posledním krokem je nastavení configu. Zde se zadávají všechny individuáln
 ![](https://github.com/ChocoTUx/readmetester/blob/master/doc/04.JPG)
 
 **Nastavení configu**
+
 Token: Konektor se na Sklik napojuje pomocí Sklik API. K autentizaci uživatele slouží Sklik Token (je možné ho získat v rozhraní Sklik v záložce nastavení)
 
 UserId: Dalším povinným prvkem je id uživatele. Jeho získání je trochu obtížnější. 
