@@ -39,7 +39,7 @@ Posledním krokem je nastavení configu. Zde se zadávají všechny individuáln
 
 Token: Konektor se na Sklik napojuje pomocí Sklik API. K autentizaci uživatele slouží Sklik Token (je možné ho získat v rozhraní Sklik v záložce nastavení)
 
-UserId: Dalším povinným prvkem je id uživatele. Jeho získání je trochu obtížnější. 
+UserId: Dalším povinným prvkem je id uživatele. Pokud svoje id neznáš, můžeš ho zjistit pomocí malé utilitky: https://bit.ly/2uMuKgL 
 
 ID kampaní: Aby se nenačítaly všechny data z celého účtu, je možné omezit přímo na některé kampaně. Je to také dáno proto, že je možné v jednom přehledu mít pouze 5000 záznamů, což u velkých účtů pro dlouhé denní statistiky může být problém. 
 
